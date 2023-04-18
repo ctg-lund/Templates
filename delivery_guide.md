@@ -54,4 +54,4 @@ In case you are worried about losing the raw data, we always keep the raw data o
 
 If you have any questions please do not hesitate to reply to the delivery email! 
 
-Our sequencing projects are loosely divided into genomics and single cell where Mattis, mattis.knulst@med.lu.se takes care of genomics related bioinformatic processing and Jacob jacob.karlstrom@med.lu.se takes care of single cell. You can email us directly to ask bioinformatic related questions you may have about current and future projects!
+Our sequencing projects are loosely divided into genomics and single cell where [Mattis](mailto:mattis.knulst@med.lu.se) takes care of genomics related bioinformatic processing and [Jacob](mailto:jacob.karlstrom@med.lu.se) takes care of single cell. You can email us directly to ask bioinformatic related questions you may have about current and future projects!
