@@ -16,7 +16,7 @@ MacOS or Windows:
 
 Linux:
 
-Write hostname -I in the terminal.
+Write ```hostname -I``` in the terminal.
 
 
 
