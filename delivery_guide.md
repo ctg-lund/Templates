@@ -6,12 +6,18 @@ can let you through our firewall before you can download your data!
 
 ### Finding and submitting your IP:
 
- Using your web browser:  
-[whatsmyip](https://www.whatismyip.com/)
+Please note that we need to whitelist your IP address for the download to work.
 
-If you have curl installed on your system:  
-```    curl ipecho.net/plain ```
-    
+Follow one of these guides depending on you OS
+
+MacOS or Windows:
+
+[IP adress for windows and mac](https://kb.wisc.edu/helpdesk/page.php?id=74667)
+
+Linux:
+
+Write hostname -I in the terminal.
+
 
 
 Once you know your public IP send us an email and we will add that IP to the whitelist!
