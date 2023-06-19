@@ -1,6 +1,8 @@
 Dear Customer,
 
-I hope this email finds you well. I wanted to remind you that we are here to help you with your data retrieval needs. If you have any questions or concerns about downloading your data from our delivery server, please don’t hesitate to reach out to us.
+I hope this email finds you well. I wanted to see if you managed to download your data yet? 
+
+Please let me know as soon as possible! If you have any questions or concerns about downloading your data from our delivery server, please don’t hesitate to reach out to us.
 
 We recommend that you download your data within **one week** of receiving your delivery email. This helps us ensure that we can confirm that you have retrieved your data before we clear the space.
 
