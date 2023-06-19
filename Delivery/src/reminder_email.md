@@ -10,5 +10,5 @@ we clear the space!
  **Your raw data** will always be kept for **1 month (Sequencing Only)** or **3 months for our other projects**
 at our secure HPC, which is a separate system from our delivery server for security reasons.
 
-Best,
+Best,  
 CTG/CGLU Staff
