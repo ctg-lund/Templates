@@ -1,10 +1,10 @@
 # All PEP
-Fork of Seq Only PEP
-Adds a projects.csv to the specification
-Can contain annotation of any bioinformatic workflow due to the super_table abstraction
-which describes the project at the project level
-samples.csv corresponds to the \[Data] section of a sample sheet
-projects.csv corresponds to \[Project_Data]
+Fork of Seq Only PEP  
+Adds a projects.csv to the specification  
+Can contain annotation of any bioinformatic workflow due to the super_table abstraction.  
+which describes the projects at the project level.  
+samples.csv corresponds to the \[Data] section of a sample sheet  
+projects.csv corresponds to \[Project_Data]  
 
 For particular workflows we need optional corresponding csv sheets
 eg when we write a new DNA_dragen pipeline, the All PEP specification
