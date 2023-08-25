@@ -1,5 +1,13 @@
 pep_version: 2.1.0
 sample_table: samples.csv
+project_modifiers: 
+  amend:
+    dna_project:
+      sample_table: dna_samples.csv
+    rna_project:
+      sample_table: rna_samples.csv
+    methylation_project:
+      sample_table: methylation_samples.csv
 name: ctg
 description: Prototype processing PEP for sequencing center
 properties:
@@ -25,6 +33,22 @@ properties:
           type: string
           description: The nucleotide sequence of the second index
           pattern: ^[ATCG]+$
+        lane:
+          type: integer
+          description: The lane number
+        reference:
+          type: string
+          description: The reference genome to use for alignment
+        control:
+          type: string
+          description: Whether the sample is a control or not
+          pattern: ^YES|NO|[Yy]es|[Nn]o$
+        experiment:
+          type: string
+          description: The experiment type
+        panel:
+          type: string
+          description: The panel used for targeted sequencing
       required:
       - project_id
       - sample_name
@@ -87,3 +111,4 @@ super_properties:
             only be yes or no
           pattern: ^YES|NO|[Yy]es|[Nn]o$
       required: project_id
+

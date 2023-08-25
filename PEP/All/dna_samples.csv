@@ -1,0 +1,3 @@
+sample_name,project_id,index,index2,reference,control,experiment,panel
+sample1,Project_1,AGAT,TAGA,hg38,control1,experiment1,GMCK
+sample2,Project_2,AGAT,TAGA,hg38,control2,experiment2,GMCK
