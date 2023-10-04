@@ -14,7 +14,7 @@ Upload the pdf to lfs:
 ```
 scp <pdf> username@lfs603.srv.lu.se:/srv/data/ctgstaff/
 ssh username@lfs603.srv.lu.se HERE <<
-sudo cp /srv/data/ctgstaff/<pdf> /srv/data/ctgstaff/ctg-delivery-guide-v1.1.pdf
+sudo mv /srv/data/ctgstaff/<pdf> /srv/data/ctgstaff/ctg-delivery-guide-v1.1.pdf
 HERE
 ```
 
