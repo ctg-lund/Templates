@@ -12,7 +12,7 @@ Follow one of these guides depending on you OS
 
 MacOS or Windows:
 
-[IP adress for windows and mac](https://kb.wisc.edu/helpdesk/page.php?id=74667)
+[IP adress for windows and mac](https://www.whatismyip.com/)
 
 Linux:
 
