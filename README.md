@@ -4,8 +4,12 @@
 Note regarding delivery guide: currently replaced manually by copying it over /srv/data/ctgstaff/ctg-delivery-guide-v1.1.pdf
 We are rebuilding the delivery process and will probably get the template directly from here in the future!
 
-Use pandoc to convert markdown to pdf, installation guide can be found here: https://gist.github.com/ilessing/7ff705de0f594510e463146762cef779
-Conversion can then be done with command `pandoc -V colorlinks -V urlcolor=NavyBlue Delivery/src/delivery_guide.md -o Delivery/Publish/delivery_guide.pdf`
+Use pandoc to convert markdown to pdf, installation guide can be found [here](https://gist.github.com/ilessing/7ff705de0f594510e463146762cef779)
+
+Conversion can then be done with command:
+```
+pandoc -V colorlinks -V urlcolor=NavyBlue Delivery/src/delivery_guide.md -o Delivery/Publish/delivery_guide.pdf
+```
 
 ## PEP
 Portable encapsulated projects (PEPs) are a way of storing biological sampledata along with metadata in a human and machine friendly manner. 
