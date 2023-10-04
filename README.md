@@ -10,6 +10,10 @@ Conversion can then be done with command:
 ```
 pandoc -V colorlinks -V urlcolor=NavyBlue Delivery/src/delivery_guide.md -o Delivery/Publish/delivery_guide.pdf
 ```
+Upload the pdf to lfs:
+```
+scp <pdf> username@lfs603.srv.lu.se:/srv/data/ctgstaff/
+```
 
 ## PEP
 Portable encapsulated projects (PEPs) are a way of storing biological sampledata along with metadata in a human and machine friendly manner. 
