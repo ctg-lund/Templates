@@ -8,7 +8,7 @@ Use pandoc to convert markdown to pdf, installation guide can be found [here](ht
 
 Conversion can then be done with command:
 ```
-pandoc -V colorlinks -V urlcolor=NavyBlue Delivery/src/delivery_guide.md -o Delivery/Publish/delivery_guide.pdf
+pandoc -V colorlinks -V urlcolor=NavyBlue -V geometry:margin=2cm Templates/Delivery/src/delivery_guide.md -o Templates/Delivery/Publish/delivery_guide.pdf
 ```
 Upload the pdf to lfs:
 ```
